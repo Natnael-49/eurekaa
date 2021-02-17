@@ -1,0 +1,48 @@
+body{
+    color:white;
+    background-image: url("eli.jpg");
+  
+}
+.riot{
+float:bottom;
+position: top;
+}
+.button{
+     border:none;
+     cursor:pointer;
+     color:red;
+     text-align: right;
+     font-size: 30px;
+     padding: 20px;
+     margin: 5px;
+ }
+ .button:hover span{
+     padding-right: 25px;
+}
+.button:hover span:after{
+    opacity: 1; 
+    right: 0;
+} 
+.inv{
+    float:left;
+    text-align: left;
+    color: white;
+    font-size: 15px;
+}
+.container1{
+    padding-top: 30px;
+    padding-left: 0px;
+    text-align: left;
+}
+.aq{
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-bottom: 20px ;
+}
+.top{
+    margin-top:40px;
+    margin-left: 0px;
+    float: left;
+    color: white;
+    text-align: center;
+}

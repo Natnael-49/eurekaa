@@ -1,0 +1,59 @@
+body{
+    color: white;
+    background-image: url("eli.jpg");
+    background-repeat: repeat;
+ 
+}
+.button1{
+    cursor: pointer;
+    color:red;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 400px;
+    margin-bottom: 0px;
+    margin-right: 10px;
+    margin-left: 250px;
+    padding-top: 500px;
+}
+.button2{
+    cursor:pointer;
+    color:red;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 500px;
+    margin-bottom: 500px;
+    margin-right: 10px;
+    margin-left: 10px;
+    padding-top: 500px;
+}
+.button3{
+    cursor:pointer;
+    color:red;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 500px;
+    margin-bottom: 500px;
+    margin-right: 10px;
+    margin-left: 10px;
+    padding-top: 500px;
+}
+.button4{
+    cursor:pointer;
+    color:red;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 350px;
+    margin-bottom: 500px;
+    margin-right: 10px;
+    margin-left: 10px;
+    padding-top: 500px;
+}
+.container1{
+    text-align: center;
+    font-family: cursive;
+    font-size: 65px;
+    color: white;
+    margin-top: 400px;
+    margin-bottom: 400px;
+
+}
