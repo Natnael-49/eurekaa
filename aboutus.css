@@ -1,0 +1,25 @@
+body{
+        color: white;
+        background-image: url("eli.jpg");
+        background-repeat: no-repeat;
+        background-color: black;
+        object-fit: cover;
+        background-size: 1250px;
+}
+.button{
+    text-align: right;
+    border:none;
+    cursor:pointer;
+    color:red;
+    font-size: 30px;
+    padding: 20px;
+    margin: 5px;
+}
+.h1{
+    font-family: cursive;
+    font-size: 25px;
+}
+.aud{
+    float: left;
+    margin-top:10px;
+}
